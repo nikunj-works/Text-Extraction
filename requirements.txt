@@ -1,0 +1,4 @@
+paddleocr>=3.7
+opencv-python
+numpy
+imageio-ffmpeg
